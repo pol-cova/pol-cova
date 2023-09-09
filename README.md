@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pol-cova" alt="pol-cova" /></a> </p>
 
-- 🔭 I’m currently working on **DeepBlur**
+- 🔭 I’m currently working on ****
 
 - 🌱 I’m currently learning **Data science, machine learning, game development**
 
