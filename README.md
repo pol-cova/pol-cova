@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm Paul Contreras, a passionate software engineer
 ### Project 1: [DeepMath](https://github.com/pol-cova/deepMath)
 Physics and mechanics graphical calculator, designed in C and Python
 
-### Project 2: [Tasky]([link](https://github.com/pol-cova/Tasky))
+### Project 2: [Tasky](https://github.com/pol-cova/Tasky)
 Simple GUI planner designed in C++ and Qt
 
 
@@ -33,8 +33,8 @@ When I'm not coding, you'll often find me:
 
 Feel free to reach out to me through:
 
-- [LinkedIn]([link](https://www.linkedin.com/in/paul-contreras-648875247/))
+- [LinkedIn](https://www.linkedin.com/in/paul-contreras-648875247/)
 - [Email](polc394@gmail.com)
-- [Personl Website](link)
+
 
 Let's collaborate and build something amazing together! 😊
