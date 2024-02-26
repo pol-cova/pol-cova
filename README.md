@@ -19,7 +19,7 @@ Here are some of the technologies I'm proficient in:
 - Web Development: HTML, CSS, React
 - Backend: Django, FastAPI, Flask
 - Databases: SQL, MongoDB, PostgreSQL
-- Tools & Technologies: Git, Github, Figma, Boostrap studio
+- Tools & Technologies: Git, Github, Figma, Bootstrap studio
 
 ## 📚 Interests
 
