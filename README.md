@@ -4,40 +4,37 @@ Welcome to my GitHub profile! I'm Paul Contreras, a passionate software engineer
 
 ## 💻 Projects
 
-### Project 1: [Project Name](link)
-Description: Brief description of the project.
+### Project 1: [DeepMath](https://github.com/pol-cova/deepMath)
+Physics and mechanics graphical calculator, designed in C and Python
 
-### Project 2: [Project Name](link)
-Description: Brief description of the project.
+### Project 2: [Tasky]([link](https://github.com/pol-cova/Tasky))
+Simple GUI planner designed in C++ and Qt
 
-### Project 3: [Project Name](link)
-Description: Brief description of the project.
 
 ## 🚀 Technologies
 
 Here are some of the technologies I'm proficient in:
 
-- Programming Languages: Python, JavaScript, Java
+- Programming Languages: Python, C, C++
 - Web Development: HTML, CSS, React
-- Backend: Node.js, Express
-- Databases: SQL, MongoDB
-- Tools & Technologies: Git, Docker, AWS
+- Backend: Django, FastAPI, Flask
+- Databases: SQL, MongoDB, PostgreSQL
+- Tools & Technologies: Git, Github, Figma, Boostrap studio
 
 ## 📚 Interests
 
 When I'm not coding, you'll often find me:
 
-- 🎮 Playing video games: Currently obsessed with [Game Title].
-- 📖 Reading: I enjoy [Genre/Author], currently reading [Book Title].
+- 🎮 Playing video games: Currently obsessed with [COD].
+- 📖 Reading: I enjoy [Genre/Author], currently reading [Science of Interstellar].
 - 💻 Exploring new coding techniques and technologies.
 
 ## 📫 Let's Connect!
 
 Feel free to reach out to me through:
 
-- [LinkedIn](link)
-- [Twitter](link)
-- [Email](email)
-- [Personal Website](link)
+- [LinkedIn]([link](https://www.linkedin.com/in/paul-contreras-648875247/))
+- [Email](polc394@gmail.com)
+- [Personl Website](link)
 
 Let's collaborate and build something amazing together! 😊
