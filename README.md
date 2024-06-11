@@ -4,29 +4,35 @@ Welcome to my GitHub profile! I'm Paul Contreras, a passionate software engineer
 
 ## 💻 Projects
 
-### Project 1: [DeepMath](https://github.com/pol-cova/deepMath)
-Physics and mechanics graphical calculator, designed in C and Python
+### Project 1: [MyVet](https://github.com/pol-cova/myVet)
+A full managment system for a veterinary, designed in C++ and React. 
 
-### Project 2: [Tasky](https://github.com/pol-cova/Tasky)
-Simple GUI planner designed in C++ and Qt
+### Project 2: [Classy](https://github.com/pol-cova/)
+A full small social network with tools for students. 
+
+### Project 3: [DeepMath](https://github.com/pol-cova/deepMath)
+Physics and mechanics graphical calculator, designed in C and Python.
+
+### Project 4: [Tasky](https://github.com/pol-cova/Tasky)
+Simple GUI planner designed in C++ and Qt.
 
 
 ## 🚀 Technologies
 
 Here are some of the technologies I'm proficient in:
 
-- Programming Languages: Python, C, C++
-- Web Development: HTML, CSS, React
-- Backend: Django, FastAPI, Flask
-- Databases: SQL, MongoDB, PostgreSQL
-- Tools & Technologies: Git, Github, Figma, Bootstrap studio
+- Programming Languages: Python, C, C++, Swift
+- Web Development: HTML, CSS, React, Typescript
+- Backend: Django, FastAPI, Flask, CrowCPP, QT
+- Databases: SQL, MongoDB, PostgreSQL, MySQL
+- Tools & Technologies: Git, Github, Figma, Bootstrap studio, Xcode, Jetbrains IDES.
 
 ## 📚 Interests
 
 When I'm not coding, you'll often find me:
 
 - 🎮 Playing video games: Currently obsessed with [COD].
-- 📖 Reading: I enjoy [Genre/Author], currently reading [Science of Interstellar].
+- 📖 Reading: I enjoy [science books], currently reading [Science of Interstellar].
 - 💻 Exploring new coding techniques and technologies.
 
 ## 📫 Let's Connect!
