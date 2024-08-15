@@ -4,16 +4,19 @@ Welcome to my GitHub profile! I'm Paul Contreras, a passionate software engineer
 
 ## 💻 Projects
 
-### Project 1: [MyVet](https://github.com/pol-cova/myVet)
+### Project 1: [GoGinit](https://github.com/pol-cova/GoGinit)
+A open-source CLI tool to set up Go Backend Projects.
+
+### Project 2: [MyVet](https://github.com/pol-cova/myVet)
 A full managment system for a veterinary, designed in C++ and React. 
 
-### Project 2: [Classy](https://github.com/pol-cova/)
+### Project 3: [Classy](https://github.com/pol-cova/)
 A full small social network with tools for students. 
 
-### Project 3: [DeepMath](https://github.com/pol-cova/deepMath)
+### Project 4: [DeepMath](https://github.com/pol-cova/deepMath)
 Physics and mechanics graphical calculator, designed in C and Python.
 
-### Project 4: [Tasky](https://github.com/pol-cova/Tasky)
+### Project 5: [Tasky](https://github.com/pol-cova/Tasky)
 Simple GUI planner designed in C++ and Qt.
 
 
@@ -21,9 +24,9 @@ Simple GUI planner designed in C++ and Qt.
 
 Here are some of the technologies I'm proficient in:
 
-- Programming Languages: Python, C, C++, Swift
+- Programming Languages: Python, C, C++, Swift, Go
 - Web Development: HTML, CSS, React, Typescript
-- Backend: Django, FastAPI, Flask, CrowCPP, QT
+- Backend: Django, FastAPI, Flask, CrowCPP, QT, Echo, Gin
 - Databases: SQL, MongoDB, PostgreSQL, MySQL
 - Tools & Technologies: Git, Github, Figma, Bootstrap studio, Xcode, Jetbrains IDES.
 
