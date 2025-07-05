@@ -31,20 +31,22 @@
 
 ### 👨🏽‍💻 About Me
 
-Hey, I'm Paul Conteras an Electronics & Computer Engineering student, and I'm in this field because I genuinely love to build, break, and deeply understand how things works. My curiosity drives me to explore areas like Machine Learning, Computer Vision, Backend Development, and Digital Signal Processing.
+Hey I'm Paul Contreras an Electronics & Computer Engineering student with hands-on experience in mobile development, backend systems, and machine learning. Currently developing iOS applications as an indie developer and contributing to Computer Vision research projects, with a focus on ORB-SLAM techniques.
 
-I primarily use Python, C++, and Go, and I'm a firm believer in learning by doing. My favorite way to learn is by taking things apart (sometimes literally!), and many of my most exciting projects have started as 'what if' experiments that grew into something more.
+Technical Skills:
+Languages: JavaScript/TypeScript, Python, C/C++, Go, SQL, NoSQL, HTML/CSS, Swift
+Frameworks: React, Node.js, Next.js, Flask, Django, Echo, Gin, FastAPI, SwiftUI
+Developer Tools: Git, Docker, VS Code, JetBrains IDEs, Figma, Postman, Bash, Xcode
+Cloud & Services: AWS, GCP, Supabase, Vercel
+ML/Computer Vision: ORB-SLAM, Image processing, Deep learning frameworks, OpenCV
 
-**Currently** , I'm focused on mobile development with Swift and deepening my understanding of Computer Vision, with a particular emphasis on ORB-SLAM techniques.
-<br>
-<br>
-I'm always looking for new challenges, learn more, and collaborate on interesting projects. <br>
-Want to build something cool or just talk tech? **Let's connect!** 🚀 <br>
-You can see what I've been up to at 👉 [paulcontre.com](https://paulcontre.com).
+Current Work:
+Building iOS applications independently :)
+Contributing to Computer Vision research project involving ORB-SLAM implementation
 
+Latest Project: Tintz - iOS application utilizing Vision Framework and custom K-Means implementation for accurate color extraction and palette generation, optimized for real-time image processing
 
-
-
+Sharing insights and technical discoveries through my blog and portfolio at [paulcontre.com](https://paulcontre.com).
 ---
 
 ### 🛠 Languages and Tools
