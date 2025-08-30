@@ -1,7 +1,7 @@
 # 💫 About Me:
-👋 Hey! I'm Paul Contreras<br><br>🎓 Electronics & Computer Engineering student with hands-on experience in mobile app development, backend systems, and machine learning.<br>📱 Currently working as an indie iOS developer and contributing to research in Computer Vision, focusing on ORB-SLAM techniques.<br><br>🚀 Current Work:<br>Developing iOS apps independently<br>Contributing to ORB-SLAM research projects<br><br>📦 Latest Project:<br>Tintz – an iOS app that uses Vision Framework and a custom K-Means algorithm for real-time, accurate color extraction and palette generation.
+👋 Hey! I'm Paul Contreras<br><br>🎓 Electronics & Computer Engineering student with hands-on experience in mobile app development, backend systems, and machine learning.<br>📱 Currently working as an indie iOS developer and contributing to research in Computer Vision, focusing on ORB-SLAM techniques.<br><br>🚀 Current Work:<br>Developing iOS apps independently<br>Contributing to ORB-SLAM research projects<br><br>📦 Latest Project:<br>StrictBlock – an iOS app for help users to stop procrastination :). 
 
-## 🧪 Sharing what I learn
+## Sharing what I learn and my Apps
 
 I ocassionally post about iOS, backend, and computer vision experiments on my blog: [paulcontre.com](https://paulcontre.com)
 
