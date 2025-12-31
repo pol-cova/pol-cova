@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey! I'm Paul Contreras<br><br>🎓 Electronics & Computer Engineering student with hands-on experience in mobile app development, backend systems, and machine learning.<br>📱 Currently working as an indie iOS developer and contributing to research in Computer Vision, focusing on ORB-SLAM techniques.<br><br>🚀 Current Work:<br>Developing iOS apps independently<br>Contributing to ORB-SLAM research projects<br><br>📦 Latest Project:<br>StrictBlock – an iOS app for help users to stop procrastination :) Try: [strictblock.com](https://www.strictblock.com). 
+👋 Hey! I'm Paul Contreras<br><br>🎓 Electronics & Computer Engineering student with hands-on experience in mobile app development, backend systems, and machine learning.<br>📱 Currently working as an indie iOS developer and contributing to research in Computer Vision, focusing on Visual SLAM techniques.<br><br>🚀 Current Work:<br>Developing iOS apps independently<br>Contributing Visual SLAM research projects<br><br>📦 Latest Project:<br>StrictBlock – an iOS app for help users to stop procrastination :) Try: [strictblock.com](https://www.strictblock.com). 
 
 ## Sharing what I learn and my Apps
 
