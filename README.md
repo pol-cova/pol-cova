@@ -1,28 +1,65 @@
-# 💫 About Me:
-👋 Hey! I'm Paul Contreras<br><br>🎓 Electronics & Computer Engineering student with hands-on experience in mobile app development, backend systems, and machine learning.<br>📱 Currently working as an indie iOS developer and contributing to research in Computer Vision, focusing on Visual SLAM techniques.<br><br>🚀 Current Work:<br>Developing iOS apps independently<br>Contributing Visual SLAM research projects<br><br>📦 Latest Project:<br>StrictBlock – an iOS app for help users to stop procrastination :) Try: [strictblock.com](https://www.strictblock.com). 
+<div align="center">
+<br>
 
-## Sharing what I learn and my Apps
+<img src="https://github.com/pol-cova.png" width="72"/>
 
-I ocassionally post about iOS, backend, and computer vision experiments on my blog: [paulcontre.com](https://paulcontre.com)
+<br>
 
+**Paul Contreras**
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/polp10) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/paul-contre) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/3nginuity) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:polc394@gmail.com) 
+<sub>iOS developer · Software engineer · Computer Vision & ML Research</sub>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=plastic&logo=swift&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=plastic&logo=digitalOcean&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=plastic&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=plastic&logo=insomnia&logoColor=5849BE) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=plastic&logo=Qt&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Badge Name](https://img.shields.io/badge/tRPC-%232596BE.svg?style=plastic&logo=tRPC&logoColor=white) ![Type-graphql](https://img.shields.io/badge/-TypeGraphQL-%23C04392?style=plastic) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=plastic&logo=gunicorn&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=plastic&logo=sketch&logoColor=black) ![Framer](https://img.shields.io/badge/Framer-black?style=plastic&logo=framer&logoColor=blue) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=plastic) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=pol-cova&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=pol-cova&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pol-cova&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+[![](https://img.shields.io/badge/paulcontre.com-111111?style=flat-square&logo=safari&logoColor=white)](https://paulcontre.com)&nbsp;
+[![](https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/paul-contre)&nbsp;
+[![](https://img.shields.io/badge/X-111111?style=flat-square&logo=x&logoColor=white)](https://x.com/3nginuity)&nbsp;
+[![](https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=white)](mailto:polc394@gmail.com)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=pol-cova&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+<br>
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=pol-cova&icon=4&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br>
+
+<sup>iOS</sup>
+
+**[StrictBlock](https://strictblock.com)** — Focus app that doesn't let you cheat. Willpower is optional.
+
+**[DailyDots](https://paulcontre.com/projects)** — Timer, task capture, brain dump and focus tracker in one.
+
+**[CrunchPhoto](https://paulcontre.com/projects)** — Local photo compression. No uploads, no cloud.
+
+**[Amperio](https://paulcontre.com/projects)** — Electronics toolkit for students and engineers.
+
+**[Blimber](https://paulcontre.com/projects)** — Academic journey and career progress tracker.
+
+**[MedCalendar](https://paulcontre.com/projects)** — On-call shift planner for medical teams.
+
+**[Spiro](https://paulcontre.com/projects)** — Local air quality and environment monitor.
+
+<br>
+
+<sup>TOOLS</sup>
+
+**[GoGinit](https://github.com/pol-cova/GoGinit)** — CLI to scaffold Go backend projects with Echo or Gin.
+
+**[minimal_api](https://github.com/pol-cova/minimal_api)** — High-performance Go microframework built on fasthttp.
+
+**[cf-cli](https://github.com/pol-cova/cf-cli)** — Terminal session for Codeforces. Fetch, solve, run — without leaving the shell.
+
+**[Scope](https://github.com/pol-cova/Scope)** — Chrome extension: highlight any word, get its docs in a sidebar.
+
+**[numlab](https://github.com/pol-cova/numlab)** — Interactive numerical methods web app. FastAPI + HTMX.
+
+<br>
+
+---
+
+<div align="center">
+<br>
+<sub>Swift · Go · Python · TypeScript · C++ · PyTorch · OpenCV · Docker · AWS</sub>
+<br><br>
+</div>
