@@ -7,8 +7,7 @@ I just like building things.
 <br>
 Currently studying Computer and Electronics Engineering at UDG.
 <br>
-Learning more about systems programming and computer vision.
-<br><br>
+Doing research in ml and cv, also i build apps check at: [paulcontre.com/apps](https://www.paulcontre.com/apps)<br><br>
 
 Swift · Go · Python · TypeScript · C++
 
