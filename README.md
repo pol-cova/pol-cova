@@ -5,13 +5,18 @@
 <br>
 I just like building things.
 <br>
-Currently studying Computer and Electronics Engineering at UDG.
+Currently studying Electronics and Computer Engineering at UDG.
 <br>
-Doing research in ml and cv, also i build apps check at: [paulcontre.com/apps](https://www.paulcontre.com/apps)<br><br>
+check what i build: [paulcontre.com/apps](https://www.paulcontre.com/apps)
+<br><br>
 
-Swift · Go · Python · TypeScript · C++
+<img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white" />
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
 
-<br>
+<br><br>
 
 ~ [paulcontre.com](https://paulcontre.com) · [linkedin](https://linkedin.com/in/paul-contre) · [x](https://x.com/paulcontr_) ~
 
