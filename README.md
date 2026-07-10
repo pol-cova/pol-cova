@@ -3,7 +3,7 @@
 * 🖥️ I just like building things.
 * 🦀 I’m learning Rust at the moment.
 * 🐦 You can follow me on X [@paulcontr_](https://x.com/paulcontr_)
-* 📱 I also make apps [paulcontre.com](https://www.paulcontre.com/)
+* 📱 I also make apps and more at [mkrz.studio](https://mkrz.studio/en/apps)
 
 ### My favorite languages
 
