@@ -18,8 +18,6 @@
 * [minimal_api](https://github.com/pol-cova/minimal_api): Lightweight Go microframework inspired by Flask and FastAPI.
 * [LaunchNotes](https://github.com/pol-cova/LaunchNotes): SwiftUI package for native-feeling “What’s New” screens.
 * [RazerControl](https://github.com/pol-cova/RazerControl): Unofficial macOS menu bar app for Razer mice.
-* [AlgoPrep](https://github.com/pol-cova/AlgoPrep): Python practice repo for data structures, algorithms, and interview prep.
-* [MyVet](https://github.com/pol-cova/myVet): C++ veterinary administration system for records, appointments, and clinical workflows.
 * [Scope](https://github.com/pol-cova/Scope): Chrome extension to open relevant docs from selected text without switching tabs.
 * [cf-cli](https://github.com/pol-cova/cf-cli): Terminal tool for fetching Codeforces problems, writing solutions, and running samples.
 
