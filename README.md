@@ -3,7 +3,7 @@
 * 🖥️ I just like building things.
 * 🦀 I’m learning Rust at the moment.
 * 🐦 You can follow me on X [@paulcontr_](https://x.com/paulcontr_)
-* 📱 I also make apps and more at [mkrz.studio](https://mkrz.studio/en/apps)
+* 📱 I make apps and more at [mkrz.studio](https://mkrz.studio/en/apps)
 
 ### My favorite languages
 
@@ -23,17 +23,6 @@
 * [Scope](https://github.com/pol-cova/Scope): Chrome extension to open relevant docs from selected text without switching tabs.
 * [cf-cli](https://github.com/pol-cova/cf-cli): Terminal tool for fetching Codeforces problems, writing solutions, and running samples.
 
-### Apps
-
-* [DrawML](https://drawml.vercel.app): Visual and interactive study plan builder for students.
-* [Upsolve Club](https://www.upsolve.club): Competitive programming practice and problems for teams.
-* [StrictBlock](https://www.strictblock.com): iOS app to block distracting apps and websites during focus sessions.
-* [DailyDots](https://dailydots.paulcontre.com): Minimalist daily task tracker for iPhone.
-* [Smallr](https://smallr.paulcontre.com): macOS app to compress videos and images fast, privately, and without subscriptions.
-* [AmbiPlay](https://ambiplay.paulcontre.com): iPad game for two-hand coordination, daily challenges, and Brain Sync scoring.
-* [MedCalendar](https://medcalendar.paulcontre.com): iOS app to generate guard duty calendars, manage shifts, add notes, and export to PDF.
-* [Amperio](https://amperio.paulcontre.com): iOS electrical engineering calculator with Ohm’s Law, resistor decoding, unit conversion, and more.
-* [ColorQueens](https://colorqueens.xyz): Colorful queen-placement logic puzzle for iPhone. Coming soon.
 
 ### Socials
 
