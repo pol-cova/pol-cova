@@ -10,7 +10,8 @@
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white" /> <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
 
 ### Projects
-
+* [graf](https://github.com/pol-cova/graf): A fast native LaTeX editor built with Rust and GPUI.
+* [Kernlet](https://github.com/pol-cova/Kernlet): GPU performance engineering workbench for validating, benchmarking, and tuning WGSL compute kernels on real hardware.
 * [Observe](https://github.com/pol-cova/observe): A live terminal monitoring cockpit for CPU, memory, disk, network, ports, and busy processes.
 * [GoGinit](https://github.com/pol-cova/GoGinit): CLI tool to scaffold Go backend projects with frameworks like Echo and Gin.
 * [Marmot](https://github.com/pol-cova/marmot-cli): Database backup tool for MySQL, PostgreSQL, and MongoDB.
