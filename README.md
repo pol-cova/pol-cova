@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white" /> <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
 
 ### Projects
-* [graf](https://github.com/pol-cova/graf): A fast native LaTeX editor built with Rust and GPUI.
+* [graf](https://github.com/pol-cova/graf): A fast native LaTeX editor built with Rust and Swift.
 * [Kernlet](https://github.com/pol-cova/Kernlet): GPU performance engineering workbench for validating, benchmarking, and tuning WGSL compute kernels on real hardware.
 * [Observe](https://github.com/pol-cova/observe): A live terminal monitoring cockpit for CPU, memory, disk, network, ports, and busy processes.
 * [GoGinit](https://github.com/pol-cova/GoGinit): CLI tool to scaffold Go backend projects with frameworks like Echo and Gin.
@@ -18,9 +18,6 @@
 * [Gessi](https://github.com/pol-cova/gessi): Dependency-free CSS and Web Component library for retro web interfaces.
 * [minimal_api](https://github.com/pol-cova/minimal_api): Lightweight Go microframework inspired by Flask and FastAPI.
 * [LaunchNotes](https://github.com/pol-cova/LaunchNotes): SwiftUI package for native-feeling “What’s New” screens.
-* [RazerControl](https://github.com/pol-cova/RazerControl): Unofficial macOS menu bar app for Razer mice.
-* [Scope](https://github.com/pol-cova/Scope): Chrome extension to open relevant docs from selected text without switching tabs.
-* [cf-cli](https://github.com/pol-cova/cf-cli): Terminal tool for fetching Codeforces problems, writing solutions, and running samples.
 
 
 ### Socials
